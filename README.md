@@ -6,9 +6,7 @@ A Machine Learning-powered web application built with **Streamlit** that predict
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the deployed app](#) *(Add your Streamlit Cloud link here)*
-
----
+🔗https://employee-salary-predictor-mgnpoujdmxh9pmndg83d69.streamlit.app/ 
 
 ## 📌 Features
 
@@ -97,20 +95,10 @@ streamlit run app.py
 
 
 🌐 Deployment
-This app is deployed using Streamlit Cloud. To deploy your own version:
-
-Push your project to GitHub
-
-Go to streamlit.io/cloud
-
-Link your GitHub repository
-
-Set app.py as the main file
-
-Click Deploy
+This app is deployed using Streamlit Cloud.
 
 🙋‍♀️ Author
-Vaishnavi D.
+Vaishnavi Dahe
 MSc Computer Science Student
 Passionate about Machine Learning and Web Apps
 🌐 LinkedIn (Add your LinkedIn)
