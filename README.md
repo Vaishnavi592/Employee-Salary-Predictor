@@ -60,16 +60,16 @@ The model was trained using historical employee data and serialized using `jobli
 
 ## 📂 Project Structure
 salary-prediction-app/
-├── README.md                     # Project documentation
-├── requirements.txt              # List of required Python packages
-├── Salary Data.csv               # Your dataset
-├── salary_model.py                # Script to train and save the ML models
-├── model_analysis.ipynb          # Notebook to visualize & evaluate model performance
-├── le_gender.pkl                 # LabelEncoder for Gender
-├── le_edu.pkl                    # LabelEncoder for Education
-├── le_job.pkl                    # LabelEncoder for Job Title
-├── app.py                        # Streamlit app directory               
-├── assets/                       # Folder to store images or screenshots
+├── README.md                     
+├── requirements.txt              
+├── Salary Data.csv              
+├── salary_model.py                
+├── model_analysis.ipynb          
+├── le_gender.pkl                
+├── le_edu.pkl                   
+├── le_job.pkl                    
+├── app.py                              
+├── assets/                     
 │   ├── AgeVsSalary.png
 │   ├── education.png
 
@@ -81,9 +81,8 @@ salary-prediction-app/
 ## 📦 Installation
 
 ### Clone the Repository
-```bash
-git clone https://github.com/yourusername/employee-salary-prediction.git
-cd employee-salary-prediction
+git clone (https://github.com/Vaishnavi592/Employee-Salary-Predictor)
+cd Employee-Salary-Predictor
 
 
 Install Dependencies
