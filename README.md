@@ -40,7 +40,7 @@ The model was trained using historical employee data and serialized using `jobli
 ## 📷 Screenshots
 
 ### 🔍 Prediction Page
-![Prediction Screenshot](predict salary.png)
+![Prediction Screenshot](predict_salary.png)
 
 ### 📈 Model Performance
 ![Performance Screenshot](numerical_distributions.png)
