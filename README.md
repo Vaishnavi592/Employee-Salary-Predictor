@@ -41,7 +41,7 @@ The model was trained using historical employee data and serialized using `jobli
 ## 📷 Screenshots
 
 ### 🔍 Prediction Page
-![Prediction Screenshot](prediction.png)
+![Prediction Screenshot](predict salary.png)
 
 ### 📈 Model Performance
 ![Performance Screenshot](numerical_distributions.png)
@@ -96,9 +96,11 @@ streamlit run app.py
 🌐 Deployment
 This app is deployed using Streamlit Cloud.
 
+
 🙋‍♀️ Author
 Vaishnavi Dahe
 MSc Computer Science Student
 Passionate about Machine Learning and Web Apps
-🌐 LinkedIn (Add your LinkedIn)
+🌐 LinkedIn 
+https://www.linkedin.com/in/vaishnavi-dahe-30b668227
 
