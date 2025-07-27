@@ -97,10 +97,15 @@ streamlit run app.py
 This app is deployed using Streamlit Cloud.
 
 
+
 🙋‍♀️ Author
+
+
 Vaishnavi Dahe
 MSc Computer Science Student
 Passionate about Machine Learning and Web Apps
+
+
 🌐 LinkedIn 
 https://www.linkedin.com/in/vaishnavi-dahe-30b668227
 
