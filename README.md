@@ -31,8 +31,7 @@ A Machine Learning-powered web application built with **Streamlit** that predict
 
 ## 🧠 Machine Learning Models Used
 
-- **Random Forest Regressor** (Main model)
-- *(You can also mention others here if you added more)*
+- **Random Forest Regressor** 
 
 The model was trained using historical employee data and serialized using `joblib`.
 
@@ -60,6 +59,7 @@ The model was trained using historical employee data and serialized using `jobli
 
 ## 📂 Project Structure
 salary-prediction-app/
+
 ├── README.md                     
 ├── requirements.txt              
 ├── Salary Data.csv              
